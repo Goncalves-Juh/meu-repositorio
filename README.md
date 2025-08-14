@@ -1,6 +1,7 @@
 # Exercícios em Javascript (para iniciantes em programação)
-TESTE
+
 Subir projeto 
+
 Digital no terminal VSCODE (TERMINAL BASH)
 
 1º DIGITAR: rm -rf .git (remover rastreio do projeto)
