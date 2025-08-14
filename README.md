@@ -6,3 +6,4 @@ Digital no terminal VSCODE (TERMINAL BASH)
 2º DIGITAR: git init (iniciar um repositório do zero)
 3º DIGITAR: git add . (adicione todos arquivos que tenho nessa pasta)
 4: DIGITAR: git commit -m "primeiro commit" 
+5º
